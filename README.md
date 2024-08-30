@@ -1,1 +1,1 @@
-# Merge-sort
+![NuGet](merge_sort.png)
